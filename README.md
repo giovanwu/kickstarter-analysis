@@ -1,5 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends
+---
 *Out of the 912 theater (parent category) campaigns launched in the U.S., 525 of them were successful.
 ![Parent Category Outcomes.png](desktop/Parent Category Outcomes.png)
 *Out of the 671 plays (subcategory) campaigns that were launched in the U.S., 412 of them were successful.
