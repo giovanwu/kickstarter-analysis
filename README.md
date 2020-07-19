@@ -18,7 +18,7 @@ Louise needs recommendations to help better set up her campaign by using data pr
 ### Purpose
 The purpose of this analysis is to see how different campaigns fared in relation to their launch dates and their funding goals.
 ## Analysis and Challenges
-![Alt text](relative/path/to/Theater_Outcomes_vs_Launch.png?raw=true "Title")
+![image](https://raw.githubusercontent.com/giovanwu/kickstarter-analysis/master/Theater_Outcomes_vs_Launch.png)
 ![Outcomes_vs_Goals.png](desktop/Resources/Outcomes_vs_Goals.png)
 While I did not encounter any specific challenges or difficulties, a possible difficulty people may encounter is when you don't put the correct fields in the PivotChart Fields, and that would mess up the PivotChart.
 ## Results
