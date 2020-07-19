@@ -3,10 +3,13 @@ Performing analysis on Kickstarter data to uncover trends
 ## Results
 -Out of the 912 theater (parent category) campaigns launched in the U.S., 525 of them were successful.
 ![image](https://raw.githubusercontent.com/giovanwu/kickstarter-analysis/master/Parent%20Category%20Outcomes.png)
+
 -Out of the 671 plays (subcategory) campaigns that were launched in the U.S., 412 of them were successful.
 ![image](https://raw.githubusercontent.com/giovanwu/kickstarter-analysis/master/Subcategory%20Outcomes.png)
+
 -Louise should start her campaign around May, since theater campaigns with a launch date in May proved to generate the most amount of successful campaigns (111) throughout the year.
 ![image](https://raw.githubusercontent.com/giovanwu/kickstarter-analysis/master/Outcomes%20Based%20on%20Launch%20Date.png)
+
 -Louise should lower her fundraising goal to around $5,000, as her original goal estimate of $10,000 is more than twice the average successful Kickstarter goal ($5,049).
 -If Louise is interested in starting a campaign in Great britain, she should try to get her play produced for less than £4,000, since half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
 -Since most of the successful theater/plays campaigns reached their goal within a month of the launch, it is important for Louise to mkae sure that she looks into how these successful campaigns were promoted in order to reach their target audience. 
